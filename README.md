@@ -1,2 +1,7 @@
-# GCC
-GCC cross targets (including GNU/Linux)
+GCC
+---
+
+
+Courtesy:
+---------
+https://gcc.gnu.org
