@@ -1,2 +1,9 @@
-# GCC
-GCC cross targets (including GNU/Linux)
+GCC
+---
+
+
+Courtesies:
+-----------
+https://gcc.gnu.org  
+https://rules.sonarsource.com/c  
+https://rules.sonarsource.com/cpp
